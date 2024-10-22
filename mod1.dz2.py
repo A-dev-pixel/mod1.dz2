@@ -8,6 +8,5 @@ Time_name= ("среднее время выполнения:")
 str= 12-1.5
 third_name = ("всего задач")
 hundred_name = Five/twelve
-print (hundred_name)
 hour_name=("часа")
-print(second_name , third_name ,twelve,  seven_name, Five, Time_name, hundred_name, hour_name)
+print(second_name , third_name ,twelve,  seven_name, Five, Time_name, Five/twelve, hour_name)
