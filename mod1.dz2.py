@@ -5,7 +5,6 @@ Five = 1.5
 first_name  = ("Название курса:")
 second_name = ("Python,")
 Time_name= ("среднее время выполнения:")
-str= 12-1.5
 third_name = ("всего задач")
 hundred_name = Five/twelve
 hour_name=("часа")
